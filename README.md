@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Hi there 👋
+## Just thinking about what kind of app i want to make and decide how to progressively approach in terms of difficulty...
+- Make a console-based chess game(with classes and functions for rule checking? Updating I/O asynch?)
+- Pomodoro webapp/cross platform app for myself would be nice.
 <!--
 **TaejongH/TaejongH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
